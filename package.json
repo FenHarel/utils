@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@types/js-beautify": "0.0.28",
-    "js-beautify": "^1.6.4"
+    "js-beautify": "1.6.4"
   },
   "devDependencies": {
     "@angular/common": "^2.1.1",
